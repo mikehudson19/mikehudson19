@@ -9,7 +9,7 @@
 </div>
   
 - I'm a remote software developer predominantly working in Javascript/Angular and C#/.NET Core.
-- I'm currently working on some cool side projects, with a focus on brushing up on my C#/.NET Core and Angular. 
+- I'm currently working on some cool side projects, always striving to learn new things and sharpen my skills. 
 - I'll soon be embarking on a journey to becoming an Associate Cloud Engineer with Google!
 
 ## My Work & Tools
