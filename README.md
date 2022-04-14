@@ -4,7 +4,7 @@
   
 - I'm a remote software developer predominantly working in Javascript/Angular and C#/.NET Core.
 - I'm currently working on some cool side projects, always striving to learn new things and sharpen my skills. 
-- I'll soon be embarking on a journey to becoming an Associate Cloud Engineer with Google!
+- I'll soon be embarking on a journey to becoming a certified AWS Cloud Developer Associate!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/michaelgeorgehudson/">
